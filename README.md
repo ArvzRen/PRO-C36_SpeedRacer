@@ -1,1 +1,1 @@
-//Plantilla Speed Racer Game Etapa 1 
+// Speed Racer Game Stage 1 
