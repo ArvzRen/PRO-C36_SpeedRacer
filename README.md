@@ -1,1 +1,1 @@
-//Plantilla Speed Racer Game Etapa 2
+Speed Racer Game Stage 2
